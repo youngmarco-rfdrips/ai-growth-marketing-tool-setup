@@ -1,4 +1,5 @@
 # ai-growth-marketing-tool-setup
+
 A portfolio project documenting my setup and exploration of AI tools for growth marketing workflows.
 
 # AI Growth Marketing Tool Setup Project
@@ -16,6 +17,7 @@ The objective of this project is to understand how modern AI tools can support r
 ### 1. Cursor IDE
 
 Purpose:
+
 - AI-powered code editor and productivity environment.
 - Used as the main workspace for managing this project.
 
@@ -27,6 +29,7 @@ Installed successfully.
 ### 2. Claude Code
 
 Purpose:
+
 - AI assistant for coding, problem-solving, and workflow support.
 - Used to explore AI-assisted productivity inside Cursor.
 
@@ -38,6 +41,7 @@ Installed and connected.
 ### 3. OpenAI Codex
 
 Purpose:
+
 - AI coding and reasoning assistant.
 - Used to compare different AI-assisted workflows.
 
@@ -49,6 +53,7 @@ Installed and connected.
 ### 4. GitHub
 
 Purpose:
+
 - Version control and project documentation platform.
 - Used to store project files and track changes.
 
@@ -63,8 +68,8 @@ Repository created successfully.
 2. Created a GitHub account and repository.
 3. Opened the repository in Cursor.
 4. Installed AI extensions:
-   - Claude Code
-   - OpenAI Codex
+  - Claude Code
+  - OpenAI Codex
 5. Created this README.md documentation file.
 6. Prepared the repository for future portfolio development.
 
@@ -78,7 +83,6 @@ Problem: The Cursor UI difference between the current version and the tutorial v
 
 Solution: I searched for a way to connect to each other and understood that the Extensions feature is in the Cursor VS Code tab (not in the Agent tab). Thus, I researched how Cursor works and how to open the VS Code tab.
 
-
 ---
 
 ### Challenge 2: Setting up GitHub repository connection
@@ -86,7 +90,6 @@ Solution: I searched for a way to connect to each other and understood that the 
 Problem: The Chat GPT and Youtube tutor of connecting Github repository and Cursor are mostly for the full license Cursor service. 
 
 Solution: I recognized that to truly “theorically” open the repository in the free version of Cursor was not very feasible. Therefore, a clone method was chosen. Firstly, I downloaded the repo from Github. Then, the Cursor prompt was created to clone the repo. 
-
 
 ---
 
